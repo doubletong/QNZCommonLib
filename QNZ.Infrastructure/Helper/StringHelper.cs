@@ -40,5 +40,6 @@ namespace SIG.Infrastructure.Helper
             }
             return new string(array, 0, arrayIndex);
         }
+
     }
 }
